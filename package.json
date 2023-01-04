@@ -1,0 +1,24 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.2.0",
+    "puppeteer": "^13.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssmBoss/puppeteer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AssmBoss/puppeteer/issues"
+  },
+  "homepage": "https://github.com/AssmBoss/puppeteer#readme",
+  "description": ""
+}
